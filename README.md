@@ -16,11 +16,11 @@
 
 
   <p align="center">
-<a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/sachusamu-c"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make it public
+Project created by <a href="https://github.com/sachusamu-c">sachusamu-c</a> to make it public
     <br>
        | © |
         Reserved |
@@ -30,8 +30,8 @@ Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make
 ----
 
   <p align="center">
-  <a href="https://github.com/saidalisaid2/LiyaMol">
-    <img src="https://img.shields.io/github/repo-size/saidalisaid2/LiyaMol?color=green&label=Repo%20total%20size&style=italic">
+  <a href="https://github.com/sachusamu-c/JINN">
+    <img src="https://img.shields.io/github/repo-size/sachusamu-c/JINN?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
 <a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
 <a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
@@ -47,7 +47,7 @@ Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saidalisaid2/LiyaMol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sachusamu-c/JINN)
      </div>
 <br>
 <br >
@@ -78,9 +78,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![saidali](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![sachusamu-c](https://github.com/sachusamu-c.png?size=100)](https://github.com/sachusamu-c) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Saidali](https://github.com/farhan-dqz)  | [Alien-Alfa](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
+[sachusamu-c](https://github.com/farhan-dqz)  | [Alien-Alfa](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
