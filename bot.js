@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('LiyaMol bot working perfectly 👻')
+            chalk.green.bold('Sachusamu bot working perfectly 🧞‍♂️')
         );
     });
     
@@ -245,7 +245,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ💞_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, '𝘴𝘴 ᴄͥʀⷮᴇᷤᴀⷨᴛⷷɪᴏɴ💞_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
