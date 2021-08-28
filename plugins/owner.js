@@ -25,10 +25,10 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ Bot created by *saidali*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'𝘴𝘴 ᴄͥʀⷮᴇᷤᴀⷨᴛⷷɪᴏɴ Bot created by *sachusamu*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.PLK + '\n\n----------ꜱͥᴀͭɪᴅᷤᴀᷟʟͤɪ-----------', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.PLK + '\n\n----------𝘴𝘴 ᴄͥʀⷮᴇᷤᴀⷨᴛⷷɪᴏɴ-----------', MessageType.text);
         }
     }));
 }
@@ -43,7 +43,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'liyamol Bot created by *SAIDALI*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'sachusamu Bot created by *SACHUSAMU*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n--------------------', MessageType.text);
