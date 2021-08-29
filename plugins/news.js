@@ -65,7 +65,7 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
          let regex2 = new RegExp('name')
          let regex3 = new RegExp('bot')
          let regex4 = new RegExp('JINN')
-         let regex5 = new RegExp('SACHUSAMU')
+         let regex5 = new RegExp('Sachusamu')
          let regex6 = new RegExp('git')
          let regex7 = new RegExp('Who are you')
          let regex8 = new RegExp('send')
