@@ -118,7 +118,7 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
          }
 
          else if (regex14.test(message.message)) {
-            await message.client.sendMessage(message.jid,'┌ *「 ABOUT 」* \n\n\n *HELLO I AM WHITEDEVIL USED FOR ENTERTAINMENT PURPOSE AS YOU ARE MY USERS YOU SHOULD MAINTAIN YOUR DIGNITY*', MessageType.text, {quoted: message.data })
+            await message.client.sendMessage(message.jid,'┌ *「 ABOUT 」* \n\n\n *HELLO I AM SACHUSAMU USED FOR ENTERTAINMENT PURPOSE AS YOU ARE MY USERS YOU SHOULD MAINTAIN YOUR DIGNITY*', MessageType.text, {quoted: message.data })
          }
 
          else if (regex15.test(message.message)) {
