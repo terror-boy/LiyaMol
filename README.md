@@ -16,7 +16,7 @@
 
 
   <p align="center">
-<a href="https://github.com/sachusamu-c"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/sachusamu-c"><img title="Author" src="https://img.shields.io/badge/Author-sachusamu-c/JINN?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -33,10 +33,10 @@ Project created by <a href="https://github.com/sachusamu-c">sachusamu-c</a> to m
   <a href="https://github.com/sachusamu-c/JINN">
     <img src="https://img.shields.io/github/repo-size/sachusamu-c/JINN?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
-<a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/sachusamu-c"><img title="Followers" src="https://img.shields.io/github/followers/sachusamu-c?color=red&style=flat-circle"></a>
+<a href="https://github.com/sachusamu-c/JINN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sachusamu-c/JINN?color=red&style=flat-square"></a>
+<a href="https://github.com/sachusamu-c/JINN/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sachusamu-c/JINN?color=red&style=flat-square"></a>
+<a href="https://github.com/sachusamu-c/JINN/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sachusamu-c/JINN?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 
@@ -80,7 +80,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![sachusamu-c](https://github.com/sachusamu-c.png?size=100)](https://github.com/sachusamu-c) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[sachusamu-c](https://github.com/farhan-dqz)  | [Alien-Alfa](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
+[sachusamu-c](https://github.com/sachusamu-c)  | [Alien-Alfa](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
