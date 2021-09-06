@@ -144,6 +144,9 @@
             "NOT_ADDED": "```You haven't added this user already!```",
             "DISABLED": "```Lydia has been disabled for this user!```"
         },
+        "gitlink": {
+            "GL": "To show dgithub details."
+        },
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "*Reply to a photo!*",
