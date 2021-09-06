@@ -149,6 +149,9 @@
             "NEED_REPLY": "*Reply to a photo!*",
             "DOWNLOADING": "```Downloading media & making meme...```"
         },
+        "gitlink": {
+            "GL": "ഗിറ്റ്ഹബ്  ലിങ്ക് കാണിക്കും"
+       },
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
             "NEED_REPLY": "*Reply to a photo!*",
