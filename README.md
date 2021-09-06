@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=29&width=800&lines=Welcome+To+My+ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ+BOT+codded+by+Sachusamu..."
+            src="https://readme-typing-svg.herokuapp.com?size=29&width=800&lines=Welcome+To+My+JINN+BOT+codded+by+Sachusamu..."
             alt="Typing SVG"
         />
     </a>
